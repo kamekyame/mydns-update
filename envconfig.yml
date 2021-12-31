@@ -1,0 +1,4 @@
+MASTER_ID:
+  require: false
+PASSWORD:
+  require: false
